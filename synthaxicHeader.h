@@ -1,0 +1,25 @@
+void affec();
+void string();
+void my_exp();
+void my_A_exp();
+void op();
+void chiffre();
+void variable();
+void decfunction();
+void args();
+void inst();
+void iffunction();
+void Else_t();
+void Else_t2();
+void IF_while_cond();
+void print_fun();
+void W3F_inst();
+void whilefunction();
+void comp();
+void carray();
+void condition();
+void forcondition();
+void arg_print();
+void forfunction();
+void selecting_vector_elements();
+
